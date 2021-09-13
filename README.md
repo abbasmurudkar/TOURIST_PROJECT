@@ -10,3 +10,9 @@ Tourist Information Centres (TICs) are one of the stalwarts of the English touri
 
 This is a simple clone of webpage tourist.com using HTML, CSS. Check out the page at
 https://github.com/abbasmurudkar/TOURIST_PROJECT
+<h2>page_facing_up: How to use:</h2>
+<ol>
+  <li>Download the ZIP file</li>
+  <li>Extraxt from any ZIP Extracter</li>
+  <li>Open `index.html` in any Browser</li>
+  </ol>
