@@ -24,6 +24,6 @@ https://github.com/abbasmurudkar/TOURIST_PROJECT
 
 - ABBAS MURUDKAR (https://www.linkedin.com/in/abbas-murudkar-0084391ba/)
 
-## :memo: Disclaimer:
+## :memo: Disclaimer:-
 
 **_Note: This Toursit clone project is just for educational purpose._**
