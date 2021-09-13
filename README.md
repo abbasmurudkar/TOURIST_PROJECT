@@ -6,4 +6,7 @@ Tourist Information Centres (TICs) are one of the stalwarts of the English touri
 </i><br>
 <a href="https://www.tourmyindia.com/">www.tourmyindia.com</a><br>
 </p>
-<h2>
+<h2>Tourist-Clone Project:</h2>
+
+This is a simple clone of webpage tourist.com using HTML, CSS. Check out the page at
+https://github.com/abbasmurudkar/Tourist_PROJECT
