@@ -18,7 +18,7 @@ https://github.com/abbasmurudkar/TOURIST_PROJECT
   </ol>
   ## :camera: Screenshot:
 <a href="https://www.github.com/abbasmurudkar">
-  <img src="images/APPLESS.png">
+  <img src="images/TOURIST.png">
   </a>
   ## :octocat: Credits:
 
